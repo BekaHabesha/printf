@@ -43,7 +43,4 @@ printf("Unknown:[%r]\n");
 return (0);
 }
 
-betty main.c
-gcc -Wall -Wextra -Werror -pedantic -std=gnu89 -Wno-format *.c
-ls  we get a.out
-./printf
+
